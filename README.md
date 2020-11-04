@@ -1,6 +1,11 @@
-### Hi there 👋
-### I am a junior developer from Indonesia
-### [My Portfolio](https://yogastama.github.io)
+# Hi there 👋
+## I am a junior developer from Indonesia
+
+- [My Portfolio](https://yogastama.github.io)
+- [My GitBooks](https://yogastama.gitbook.io/blogs/)
+- [My Medium](https://yogastama.medium.com)
+- [My Dribble](https://dribbble.com/yogastama)
+- [FourGrammer](https://yogastama.gitbook.io/fourgrammer/)
 
 <!--
 **yogastama/yogastama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
