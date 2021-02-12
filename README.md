@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, yoga here!
 ## I am a junior developer from Indonesia
 
 - [My Portfolio](https://yogastama.github.io)
