@@ -1,18 +1,11 @@
-Hi 👋 My name is Yoga Bagas
-===========================
-
-Full Stack Developer
---------------------
-
-Yoga Bagas is known as one young full stack developer who has many portfolios and solutions. Has 3 years experience of Web Development that focused build solution from zero to one. Yoga Bagas experienced develop websites which results in a solution from zero to one.
+Hi 👋
+I’m Yogastama, a full stack developer, software engineer, and entrepreneur. I have experience working with governments, startups, corporate companies, banks, universities, and schools in providing application solutions.
 
 * 🌍  I'm based in Jakarta
-* 🖥️  See my portfolio at [My Portfolio](http://yogabagas.site)
-* ✉️  You can contact me at [yogabagas69@gmail.com](mailto:yogabagas69@gmail.com)
-* 🚀  I'm currently working on [BoksMan Asia](http://boksman.com)
-* 🧠  I'm learning Next JS
+* 🖥️  See my portfolio at [My Portfolio](https://drive.google.com/file/d/1K9rpvC3NCoigmYeV2gxKsfE6Qskfd4xt/view?usp=sharing)
+* ✉️  You can contact me at [yogastama@duck.com](mailto:yogastama@duck.com)
+* 🧠  I'm learning Vue JS
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I'm secretly Spiderman, but dont tell anyone...
 
 <a href="https://www.github.com/yogastama" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yogastama?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
