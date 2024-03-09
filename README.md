@@ -2,7 +2,6 @@ Hi 👋
 I’m Yogastama, a full stack developer, software engineer, and entrepreneur. I have experience working with governments, startups, corporate companies, banks, universities, and schools in providing application solutions.
 
 * 🌍  I'm based in Jakarta
-* 🖥️  See my portfolio at [My Portfolio](https://drive.google.com/file/d/1K9rpvC3NCoigmYeV2gxKsfE6Qskfd4xt/view?usp=sharing)
 * ✉️  You can contact me at [yogastama@duck.com](mailto:yogastama@duck.com)
 * 🧠  I'm learning Vue JS
 * 🤝  I'm open to collaborating on Interesting Projects
