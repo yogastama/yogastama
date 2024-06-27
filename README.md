@@ -3,7 +3,6 @@ I’m Yogastama, a full stack developer, software engineer, and entrepreneur. I 
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [yogastama@duck.com](mailto:yogastama@duck.com)
-* 🧠  I'm learning Vue JS
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/yogastama" target="_blank" rel="noreferrer"><img
